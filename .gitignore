@@ -1,0 +1,17 @@
+# InteliJ idea files
+.idea
+*.iml
+
+# vi / vim
+*.swp
+*.swo
+
+# sbt files
+**/target/
+
+# Eclipse scala IDE
+**/bin/
+/.classpath
+/.project
+/.settings/
+
